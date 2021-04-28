@@ -45,7 +45,7 @@ exports.intervals = false;
 // Add donation URL (optional)
 // ----------------------------
 
-exports.donation = "https://opencollective.com/ritabot-project";
+exports.donation = null;
 
 // -------------------------
 // Changelog URL (optional)
